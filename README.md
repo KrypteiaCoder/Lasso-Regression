@@ -1,0 +1,2 @@
+# Lasso-Regression
+Regularization parameter: Lasso The  𝜆  for lasso can var between 0 (no penalty, acts like OLS) and infinity. If  𝜆  is too large, all parameters will be set to zero.  Create a plot below of how  𝑅2  varies across different values of  𝜆  for ridge and lasso regression. Use logic and code similar to the ridge regression demonstration above, and base your plot on the X_train2 feature set.  Do lasso and ridge yield the same  𝑅2  for a given lambda value?  Submit your work and discuss the results with your mentor.
